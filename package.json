@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "learn jest test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajesh2github/jest.git"
+  },
+  "author": "rajesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rajesh2github/jest/issues"
+  },
+  "homepage": "https://github.com/Rajesh2github/jest#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
